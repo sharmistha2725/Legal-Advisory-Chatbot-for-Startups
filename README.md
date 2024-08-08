@@ -12,3 +12,4 @@ The chatbot is built using the BERT model, a state-of-the-art NLP model. It util
 Frontend: HTML and CSS for the user interface.
 Backend: Flask for handling user requests and responses.
 Machine Learning: BERT model for NLP tasks.
+
